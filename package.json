@@ -1,0 +1,16 @@
+{
+  "name": "gerador-de-senhas-seguras",
+  "version": "1.0.0",
+  "description": "Gerador de senhas super seguro!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^4.0.1",
+    "vite": "^4.1.1"
+  },
+  "type": "module"
+}

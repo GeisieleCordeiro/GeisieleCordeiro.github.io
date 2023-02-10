@@ -1,1 +1,1 @@
-# GeisieleCordeiro.github.io
+Criação de uma aplicação que é um Gerador de Senhas Aleatórias. A ideia da aplicação é que, a cada vez que o botão é clicado, ela recomenda uma senha forte. Essa senha é gerada por uma biblioteca externa chamada nanoid.
